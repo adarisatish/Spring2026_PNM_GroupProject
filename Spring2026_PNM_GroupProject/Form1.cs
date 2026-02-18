@@ -16,5 +16,9 @@ namespace Spring2026_PNM_GroupProject
         {
             InitializeComponent();
         }
+           private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("My Name is GABY");
+        }
     }
 }
